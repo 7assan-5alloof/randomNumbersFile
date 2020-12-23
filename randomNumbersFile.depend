@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608713752 source:/home/hassan/code/cpp/IOI/randomNumbersFile/main.cpp
+	<iostream>
+	<fstream>
+
